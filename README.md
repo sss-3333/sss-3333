@@ -2,7 +2,7 @@
 
 ### DevOps Engineer
 
-Building cloud infrastructure on AWS with Terraform, Docker, and CI/CD —
+Building cloud infrastructure on AWS with Terraform, Docker, and CI/CD -
 learning by shipping real, working deployments rather than just tutorials.
 
 ---
@@ -22,17 +22,17 @@ learning by shipping real, working deployments rather than just tutorials.
 
 ### Featured Project
 
-#### 🚀 [Trackance — Client Project Tracker on AWS ECS](https://github.com/sss-3333/ECS-project)
+#### 🚀 [Trackance - Client Project Tracker on AWS ECS](https://github.com/sss-3333/ECS-project)
 
 A containerised Node.js app deployed to ECS Fargate, provisioned entirely
-with Terraform — built end-to-end, from a manual ClickOps setup through to
+with Terraform - built end-to-end, from a manual ClickOps setup through to
 a fully automated CI/CD pipeline.
 
 - 5 reusable Terraform modules (VPC, ECR, ACM, ALB, ECS), with GitHub OIDC
   authentication and the container registry split into their own
   independent Terraform state, so a full teardown of the app
   infrastructure never removes the pipeline's own credentials or image
-- Hand-built least-privilege IAM policy for CI/CD — no `AdministratorAccess` —
+- Hand-built least-privilege IAM policy for CI/CD - no `AdministratorAccess` —
   tested by locally assuming the actual role and running `terraform plan`
   and `destroy` against it until both came back clean
 - Immutable ECR image tags, deployed by digest via a Terraform data source
