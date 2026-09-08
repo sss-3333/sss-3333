@@ -46,6 +46,13 @@ a fully automated CI/CD pipeline.
 `ECS Fargate` `Terraform` `Docker` `GitHub Actions` `OIDC` `ECR` `ALB` `ACM` `Route 53` `VPC`
 
 ---
+### Mini Projects
+ 
+- [Docker Multi-Container Apps](https://github.com/sss-3333/docker-journey) — Flask + MySQL, Flask + Redis, Docker Compose
+- [WordPress on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/DeployWordPress) — bash user-data provisioning
+- [NGINX on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/cloud-init) — cloud-init provisioning
+
+---
 
 ### Let's Connect
 
