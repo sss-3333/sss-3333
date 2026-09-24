@@ -12,6 +12,7 @@ learning by shipping real, working deployments rather than just tutorials.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
@@ -32,7 +33,7 @@ a fully automated CI/CD pipeline.
   authentication and the container registry split into their own
   independent Terraform state, so a full teardown of the app
   infrastructure never removes the pipeline's own credentials or image
-- Hand-built least-privilege IAM policy for CI/CD - no `AdministratorAccess` —
+- Hand-built least-privilege IAM policy for CI/CD - no `AdministratorAccess` -
   tested by locally assuming the actual role and running `terraform plan`
   and `destroy` against it until both came back clean
 - Immutable ECR image tags, deployed by digest via a Terraform data source
@@ -46,11 +47,18 @@ a fully automated CI/CD pipeline.
 `ECS Fargate` `Terraform` `Docker` `GitHub Actions` `OIDC` `ECR` `ALB` `ACM` `Route 53` `VPC`
 
 ---
+
 ### Mini Projects
- 
-- [Docker Multi-Container Apps](https://github.com/sss-3333/docker-journey) — Flask + MySQL, Flask + Redis, Docker Compose
-- [WordPress on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/DeployWordPress) — bash user-data provisioning
-- [NGINX on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/cloud-init) — cloud-init provisioning
+
+- [Docker Multi-Container Apps](https://github.com/sss-3333/docker-journey) - Flask + MySQL, Flask + Redis, Docker Compose
+- [WordPress on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/DeployWordPress) - bash user-data provisioning
+- [NGINX on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/cloud-init) - cloud-init provisioning
+
+---
+
+### Currently Learning
+
+- [Kubernetes Journey](https://github.com/sss-3333/k8s-journey) - notes and hands-on labs covering cluster architecture, workloads, Services and networking, practised on a local multi-node kind cluster
 
 ---
 
