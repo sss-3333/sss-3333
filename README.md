@@ -56,7 +56,7 @@ a fully automated CI/CD pipeline.
 
 ---
 
-### Currently Learning
+### Latest
 
 - [Kubernetes Journey](https://github.com/sss-3333/k8s-journey) - notes and hands-on labs covering cluster architecture, workloads, Services and networking, practised on a local multi-node kind cluster
 
