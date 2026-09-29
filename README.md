@@ -56,7 +56,11 @@ a fully automated CI/CD pipeline.
 
 ---
 
-### Latest
+### Currently Building
+
+- [URL Shortener with Click Analytics on AWS ECS](https://github.com/sss-3333/url-shortener-ecs) - three services (Python API, Go worker, Go dashboard) on ECS Fargate, backed by RDS Postgres, ElastiCache Redis and SQS, all in private subnets reaching AWS through VPC endpoints instead of a NAT gateway. Now wiring up CodeDeploy blue/green deploys for the API and least-privilege pipeline roles
+  
+### The Learning Never Stops!
 
 - [Kubernetes Journey](https://github.com/sss-3333/k8s-journey) - notes and hands-on labs covering cluster architecture, workloads, Services and networking, practised on a local multi-node kind cluster
 
