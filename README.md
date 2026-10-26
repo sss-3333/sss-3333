@@ -44,6 +44,10 @@ learning by shipping real, working deployments rather than just tutorials.
 - [WordPress on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/DeployWordPress) - bash user-data provisioning
 - [NGINX on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/cloud-init) - cloud-init provisioning
 
+### Hobbies
+
+
+
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safaa-sheikh-7283b5219)
