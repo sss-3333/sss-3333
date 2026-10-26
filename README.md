@@ -21,21 +21,23 @@ learning by shipping real, working deployments rather than just tutorials.
 
 ---
 
-### Featured Project
+### Featured Projects
 
 #### 🚀 [Trackance - Client Project Tracker on AWS ECS](https://github.com/sss-3333/ECS-project)
+#### 🚀 [URL Shortener with Click Analytics on AWS ECS](https://github.com/sss-3333/url-shortener-ecs) 
 
 ---
 
 ### Currently Building
 
-- [URL Shortener with Click Analytics on AWS ECS](https://github.com/sss-3333/url-shortener-ecs) 
+[Trackance (Azure)]
   
-### The Learning Never Stops!
+### Currently Studying
 
 - [Kubernetes Journey](https://github.com/sss-3333/k8s-journey) 
 
 ---
+
 ### Mini Projects
 
 - [Docker Multi-Container Apps](https://github.com/sss-3333/docker-journey) - Flask + MySQL, Flask + Redis, Docker Compose
