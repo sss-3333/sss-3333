@@ -40,16 +40,16 @@ learning by shipping real, working deployments rather than just tutorials.
 
 ### Mini Projects
 
-[Docker Multi-Container Apps](https://github.com/sss-3333/docker-journey) - Flask + MySQL, Flask + Redis, Docker Compose
-[WordPress on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/DeployWordPress) - bash user-data provisioning
-[NGINX on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/cloud-init) - cloud-init provisioning
+- [Docker Multi-Container Apps](https://github.com/sss-3333/docker-journey) - Flask + MySQL, Flask + Redis, Docker Compose
+- [WordPress on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/DeployWordPress) - bash user-data provisioning
+- [NGINX on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/cloud-init) - cloud-init provisioning
 
 ### Outside of Tech
 
-🎮 Building games in Unity
-🍥 Watching anime
-🗣️ Learning new languages
-🏃‍♀️ Running and the gym
+- 🎮 Building games in Unity
+- 🍥 Watching anime
+- 🗣️ Learning new languages
+- 🏃‍♀️ Running and the gym
 
 ### Let's Connect
 
