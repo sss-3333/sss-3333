@@ -30,7 +30,7 @@ learning by shipping real, working deployments rather than just tutorials.
 
 ### Currently Building
 
-[Trackance (Azure)]
+[Trackance (Azure)](https://github.com/sss-3333/trackance-azure)
   
 ### Currently Studying
 
