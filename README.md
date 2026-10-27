@@ -47,13 +47,15 @@ learning by shipping real, working deployments rather than just tutorials.
 ### Outside of Tech
 
 <p>
-  <img src="images/unity.png" width="130" alt="A game I built in Unity">
-  <img src="images/anime.png" width="130" alt="Anime">
-  <img src="images/running.jpg" width="130" alt="Running">
+  <img src="images/unity.png" width="130" alt="Building games in Unity">
+  <img src="images/anime.png" width="130" alt="Watching anime">
+  <img src="images/languages.png" width="130" alt="Learning languages">
+  <img src="images/running.png" width="130" alt="Running and the gym">
 </p>
 
 - 🎮 Building games in Unity
 - 🍥 Watching anime
+- 🗣️ Learning new languages (Mandarin Chinese and Arabic)
 - 🏃‍♀️ Running and the gym
 
 ### Let's Connect
