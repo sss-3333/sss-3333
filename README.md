@@ -54,3 +54,4 @@ learning by shipping real, working deployments rather than just tutorials.
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safaa-sheikh-7283b5219)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/safaaenv)
