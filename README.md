@@ -44,9 +44,17 @@ learning by shipping real, working deployments rather than just tutorials.
 - [WordPress on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/DeployWordPress) - bash user-data provisioning
 - [NGINX on EC2 via Terraform](https://github.com/sss-3333/terraform-journey/tree/main/projects/cloud-init) - cloud-init provisioning
 
-### Hobbies
+### Outside of Tech
 
+<p>
+  <img src="images/unity.png" width="130" alt="A game I built in Unity">
+  <img src="images/anime.png" width="130" alt="Anime">
+  <img src="images/running.jpg" width="130" alt="Running">
+</p>
 
+- 🎮 Building games in Unity
+- 🍥 Watching anime
+- 🏃‍♀️ Running and the gym
 
 ### Let's Connect
 
