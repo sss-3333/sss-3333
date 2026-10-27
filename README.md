@@ -47,9 +47,9 @@ learning by shipping real, working deployments rather than just tutorials.
 ### Outside of Tech
 
 - 🎮 Building games in Unity
+- 🏃‍♀️ Running and the gym
 - 🍥 Watching anime
 - 🗣️ Learning new languages
-- 🏃‍♀️ Running and the gym
 
 ### Let's Connect
 
