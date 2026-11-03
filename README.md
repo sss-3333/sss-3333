@@ -50,6 +50,7 @@ learning by shipping real, working deployments rather than just tutorials.
 - 🏃‍♀️ Running and the gym
 - 🍥 Watching anime
 - 🗣️ Learning new languages
+- 🎭 Theatre & Cinema
 
 ### Let's Connect
 
